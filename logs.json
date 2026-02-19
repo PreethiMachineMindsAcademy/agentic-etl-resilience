@@ -1,1 +1,6 @@
+[
+  {"pipeline":"sales_etl","error":"Database connection timeout"},
+  {"pipeline":"inventory_etl","error":"Schema mismatch detected"},
+  {"pipeline":"customer_etl","error":"Out of memory error"}
+]
 
